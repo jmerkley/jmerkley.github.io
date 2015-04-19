@@ -1,0 +1,10 @@
+h1, p {
+	font-family: sans-serif;
+	color: #CC9900;
+}
+
+body{	
+	background-color: black;
+	padding-left: 25px;
+	padding-top:  25px;
+}
