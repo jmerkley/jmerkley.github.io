@@ -1,0 +1,54 @@
+html, body {
+    height: 100%;
+}
+body {
+	text-align: center;
+  	background: url("http://s6.postimg.org/tx651mle9/koston1.jpg");
+  	background-size: cover;
+  	color: #fff;
+  	font-family: Helvetica;
+}
+.wrapper {
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+}
+.main {
+    height: 100%;
+    width: 100%;
+    display: table;
+}
+
+/*img {
+   margin-top: 200px;
+
+}*/
+
+
+p {
+  text-transform: uppercase;
+  font-size: 18px;
+  margin-top: 25px;
+}	
+
+hr {
+	width: 150px;
+	margin-top: 25px;
+}
+
+a{
+	color: #fff;
+	font-family: Helvetica;
+	font-size: 16px;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FF3532;
+	font-family: Helvetica;
+	font-size: 16px;
+	font-weight: normal;
+	text-decoration: none;
+}
+
